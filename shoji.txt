@@ -1,3 +1,6 @@
 <h1>Hi</h1>
+<<<<<<< HEAD
 
 test3
+=======
+>>>>>>> parent of 146224a (commit test1)
